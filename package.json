@@ -1,0 +1,19 @@
+{
+  "name": "codelearn",
+  "version": "1.0.0",
+  "description": "practise code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrowstraight/codelearn.git"
+  },
+  "author": "martin entwisle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrowstraight/codelearn/issues"
+  },
+  "homepage": "https://github.com/arrowstraight/codelearn#readme"
+}
