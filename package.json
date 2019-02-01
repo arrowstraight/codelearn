@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arrowstraight/codelearn/issues"
   },
-  "homepage": "https://github.com/arrowstraight/codelearn#readme"
+  "homepage": "https://github.com/arrowstraight/codelearn#readme",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
 }
